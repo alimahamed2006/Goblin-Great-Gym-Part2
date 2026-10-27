@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <!-- Tiled dumbbell used as the hero background (decorative only) -->
+  <g transform="rotate(-30 70 70)" fill="#d6df3c" fill-opacity="0.16">
+    <rect x="42" y="66" width="56" height="8" rx="2" />
+    <rect x="30" y="52" width="9" height="36" rx="3" />
+    <rect x="20" y="58" width="8" height="24" rx="3" />
+    <rect x="101" y="52" width="9" height="36" rx="3" />
+    <rect x="112" y="58" width="8" height="24" rx="3" />
+  </g>
+</svg>
